@@ -2,6 +2,9 @@
 
 Welcome to the PySnake RL Game repository! This repository contains code for a reinforcement learning (RL) environment and a Pygame-based game where players can play the game themselves.
 
+![Alt Text](results/score_61.gif)
+   
+   
 ## Repository Structure
 
 The repository is organized into the following folders:
@@ -44,6 +47,5 @@ To train the agent, use Run.ipynb notebook
     ```shell
    python3 run.py
 
-![Alt Text](results/score_61.gif)
-   
+
 
